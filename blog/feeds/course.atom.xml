@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="https://40623113.github.io/w16/blog/" rel="alternate"></link><link href="https://40623113.github.io/w16/blog/feeds/course.atom.xml" rel="self"></link><id>https://40623113.github.io/w16/blog/</id><updated>2017-12-29T08:20:00+08:00</updated><entry><title>計算機程式第十六週心得</title><link href="https://40623113.github.io/w16/blog/40623113-w16.html" rel="alternate"></link><published>2017-12-29T08:20:00+08:00</published><updated>2017-12-29T08:20:00+08:00</updated><author><name>40623113</name></author><id>tag:40623113.github.io,2017-12-29:/w16/blog/40623113-w16.html</id><summary type="html">&lt;p&gt;協同製作計算機&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="https://40623113.github.io/w16/blog/" rel="alternate"></link><link href="https://40623113.github.io/w16/blog/feeds/course.atom.xml" rel="self"></link><id>https://40623113.github.io/w16/blog/</id><updated>2018-01-05T08:20:00+08:00</updated><entry><title>計算機程式第十七週心得</title><link href="https://40623113.github.io/w16/blog/40623113-w17.html" rel="alternate"></link><published>2018-01-05T08:20:00+08:00</published><updated>2018-01-05T08:20:00+08:00</updated><author><name>40623113</name></author><id>tag:40623113.github.io,2018-01-05:/w16/blog/40623113-w17.html</id><summary type="html">&lt;p&gt;獨立完成計算機&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;獨立完成計算機&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容:&lt;/h2&gt;
+&lt;p&gt;計算機完成&lt;/p&gt;
+&lt;p&gt;製作期末報告資料&lt;/p&gt;
+&lt;h2&gt;心得:&lt;/h2&gt;
+&lt;p&gt;自己完成了簡易計算機並上傳了youtube，頗有成就感。&lt;/p&gt;
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://www.youtube.com/watch?v=oMyU58vI8NQ&amp;t=310s"&lt;br&gt;width="640" height="370"&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="PyQt5"></category></entry><entry><title>計算機程式第十六週心得</title><link href="https://40623113.github.io/w16/blog/40623113-w16.html" rel="alternate"></link><published>2017-12-29T08:20:00+08:00</published><updated>2017-12-29T08:20:00+08:00</updated><author><name>40623113</name></author><id>tag:40623113.github.io,2017-12-29:/w16/blog/40623113-w16.html</id><summary type="html">&lt;p&gt;協同製作計算機&lt;/p&gt;
 &lt;p&gt;獨立完成計算機&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同製作計算機&lt;/p&gt;
 &lt;p&gt;獨立完成計算機&lt;/p&gt;
