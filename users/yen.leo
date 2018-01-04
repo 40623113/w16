@@ -480,8 +480,7 @@ DIA=&gt;箭頭更有線條感</t>
 <t tx="leo.20180104235539.1">##製作計算機過程
 
 
-&lt;img src="https://www.youtube.com/watch?v=oMyU58vI8NQ&amp;t=310s"  
-width="640" height="370"&gt;&lt;/a&gt;</t>
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/oMyU58vI8NQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
