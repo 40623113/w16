@@ -202,107 +202,90 @@ Created by [40623113](https://cpa.kmol.info/40623113/doc/trunk/blog/index.html)
 <section>
     <section data-markdown>
         <script type="text/template">
-    # W10-W12 檢討週
+    # W10-W12 學習週
 
-    * 學習計算機輸入數字寫法
-    * 自訂義啟動與關閉
-    * DiaPortable 與 GIMPPortable 的使用 
-    * github創建
-    * 計算機表單繼承方法
+    * 自訂啟動與關閉
+    * 建立計算機版面和學習功能寫法
+    * github建立和改區域
+    * Dia 與 GIM使用方法  
+    * 學習計算機表單繼承
         </script>
     </section>
     <section data-markdown>
         <script type="text/template">
-    ##如何錄製及推送
-    錄製
-    <img src="https://cpa.kmol.info/40623113/raw/4fcd02f2fc4420678769dea248c572fb1351d1be3e341f0c38f807769d06db51?m=image/png"
-    width="200" height="200"></a>
-    vimeo推送:
-    youtube推送:
+    ##自訂啟動與關閉
 
-    <img src="https://cpa.kmol.info/40623113/raw/ca78859ae3636c002a7c4e0f76aeb077a427968f7391073d31ef3fb218845219?m=image/png"
-    width="200" height="200"></a>
-    <img src="https://cpa.kmol.info/40623113/raw/89fff2480416db8a188057934aab680d122ebed65c4d84366ad2c029862db78d?m=image/png"
-    width="200" height="200"></a>
+    改寫star.bat與stop.bat成自訂形式
         </script>
     </section>
     <section data-markdown>
         <script type="text/template">
+    ##建立計算機版面和學習功能寫法
+
+    創立計算機版面和排版
+
+    下面是計算機的功能寫法
+    ```
+    #避免重複 0。
+            if self.display.text() == '0' and int(button.text())== 0.0:
+                return
+            #清除螢幕 (運算的時候)
+            if self.waitingForOperand:
+                self.display.clear()
+                self.waitingForOperand = False
+            #疊加數字
+            self.display.setText(self.display.text() + button.text())
+     ```
+        
         </script>
     </section>
     <section data-markdown>
         <script type="text/template">
-    # 自評分數
+    ##github建立和改區域
 
-    * 出席 20%：15
-    * 平時表現 30%：22
-    * 驗收考試 30%：19
-    * 驗收簡報 20%：13
-    * 總評：69分
+    建立github帳號
+
+    從master改道gh-pages並且update
+
+
         </script>
     </section>
     <section data-markdown>
         <script type="text/template">
-    # W10-W12 檢討週
+    ## Dia 與 GIM使用方法 
 
-    * 學習計算機輸入數字寫法
-    * 自訂義啟動與關閉
-    * DiaPortable 與 GIMPPortable 的使用 
-    * github創建
-    * 計算機表單繼承方法
-        </script>
-    </section>
-    <section data-markdown>
-        <script type="text/template">
-    # W10-W12 檢討週
+    投影片可以更加有整齊，能讓別人能更加明瞭你在做什麼。
 
-    * 學習計算機輸入數字寫法
-    * 自訂義啟動與關閉
-    * DiaPortable 與 GIMPPortable 的使用 
-    * github創建
-    * 計算機表單繼承方法
+    GIM=>裁剪圖
+    DIA=>箭頭更有線條感
         </script>
     </section>
 </section>
 <section>
     <section data-markdown>
         <script type="text/template">
-    # W13-W15 期中驗收週
+    # W13-W15 期末執行週
 
-    * w7製作網誌
-    * 錄製影片推送到vimeo和youtube
-    * 將影片放置網誌
-    * w8如何用eric6做出計算機
-    * w9製作期中投影片
-    * [W7 第七週學習心得](https://cpa.kmol.info/40623113/doc/trunk/blog/40623113-w7-exam.html)
-    * [W8 第八週學習心得](https://cpa.kmol.info/40623113/doc/trunk/blog/40623113-w8.html)
-    * [W9 第九週期中報告]
+
+    * 與組員協同製作計算機功能
+    * EtherCalc表單教學與使用
+    * 驗收計算機成果與心得
+    * 驗收個人簡報和小組簡報
         </script>
     </section>
     <section data-markdown>
         <script type="text/template">
-    ##如何錄製及推送
-    錄製
-    <img src="https://cpa.kmol.info/40623113/raw/4fcd02f2fc4420678769dea248c572fb1351d1be3e341f0c38f807769d06db51?m=image/png"
-    width="200" height="200"></a>
-    vimeo推送:
-    youtube推送:
+    ###與組員協同製作計算機基本功能
 
-    <img src="https://cpa.kmol.info/40623113/raw/ca78859ae3636c002a7c4e0f76aeb077a427968f7391073d31ef3fb218845219?m=image/png"
-    width="200" height="200"></a>
-    <img src="https://cpa.kmol.info/40623113/raw/89fff2480416db8a188057934aab680d122ebed65c4d84366ad2c029862db78d?m=image/png"
-    width="200" height="200"></a>
+    與組員一起做出一個計算機，並推到各組的github上，解決推檔的衝突，做出完整的功能，最後把簡報完成。
         </script>
     </section>
     <section data-markdown>
         <script type="text/template">
-    # 自評分數
+    ##EtherCalc表單教學與使用
 
-    * 出席 20%：15
-    * 平時表現 30%：22
-    * 驗收考試 30%：19
-    * 驗收簡報 20%：13
-    * 總評：69分
+
+    說明如何透過概念、知識、執行、自學與想像等欄位的標示, 整理課程學習歷程.
         </script>
     </section>
 </section>

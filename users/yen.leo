@@ -50,17 +50,17 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20171116212837.1" a="E"><vh>目錄</vh>
+<v t="leo.20171116212837.1"><vh>目錄</vh>
 <v t="leo.20171116212847.1"><vh>內容</vh></v>
 </v>
 <v t="yen.20170108171733.16"><vh>W1-W3</vh>
-<v t="yen.20170108171733.17"><vh>準備與鼓勵</vh>
+<v t="yen.20170108171733.17" a="E"><vh>準備與鼓勵</vh>
 <v t="leo.20171108232120.1"><vh>內容物</vh></v>
 </v>
-<v t="leo.20171108235759.1" a="E"><vh>開啟隨身系統</vh>
+<v t="leo.20171108235759.1"><vh>開啟隨身系統</vh>
 <v t="leo.20171108235819.1"><vh>內容物</vh></v>
 </v>
 <v t="leo.20171109000353.1"><vh>指令</vh>
@@ -92,35 +92,32 @@
 <v t="leo.20171109021126.1"><vh>自評</vh></v>
 </v>
 </v>
-<v t="leo.20180103235104.1" a="E"><vh>W10-W12</vh>
+<v t="leo.20180103235104.1"><vh>W10-W12</vh>
 <v t="leo.20180103235104.2"><vh>上課大綱</vh>
 <v t="leo.20180103235104.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20180103235104.4"><vh>學習計算機輸入數字寫法</vh>
-<v t="leo.20180103235104.5"><vh>如何錄製</vh></v>
+<v t="leo.20180103235104.4"><vh>自訂啟動與關閉</vh>
+<v t="leo.20180103235104.5"><vh>內容</vh></v>
 </v>
-<v t="leo.20180104000950.1"><vh>自訂義啟動與關閉</vh>
+<v t="leo.20180104000950.1"><vh>建立計算機版面和學習功能寫法</vh>
 <v t="leo.20180104001010.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20180103235104.6"><vh>DiaPortable 與 GIMPPortable 的使用</vh>
-<v t="leo.20180103235104.7"><vh>自評</vh></v>
+<v t="leo.20180103235104.6"><vh>github建立和改區域</vh>
+<v t="leo.20180103235104.7"><vh>內容</vh></v>
 </v>
-<v t="leo.20180104001053.1"><vh>github創建</vh>
+<v t="leo.20180104001053.1"><vh>Dia 與 GIM使用方法 </vh>
 <v t="leo.20180104001053.2"><vh>內容</vh></v>
-</v>
-<v t="leo.20180104001059.1"><vh>上課大計算機表單繼承方法綱</vh>
-<v t="leo.20180104001059.2"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20180103235254.1"><vh>W13-W15</vh>
-<v t="leo.20180103235254.2" a="E"><vh>上課大綱</vh>
+<v t="leo.20180103235254.2"><vh>上課大綱</vh>
 <v t="leo.20180103235254.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20180103235254.4"><vh>創建EtherCalc表單</vh>
-<v t="leo.20180103235254.5"><vh>如何錄製</vh></v>
+<v t="leo.20180103235254.4"><vh>與組員協同製作計算機基本功能</vh>
+<v t="leo.20180103235254.5"><vh>內容</vh></v>
 </v>
-<v t="leo.20180103235254.6"><vh>與組員協同製作計算機基本功能</vh>
-<v t="leo.20180103235254.7"><vh>自評</vh></v>
+<v t="leo.20180103235254.6"><vh>EtherCalc表單教學與使用</vh>
+<v t="leo.20180103235254.7"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20171116215207.1"><vh>筆記</vh>
@@ -375,41 +372,34 @@ width="200" height="200"&gt;&lt;/a&gt;</t>
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180103235104.3"># W10-W12 檢討週
+<t tx="leo.20180103235104.3"># W10-W12 學習週
 
-* 學習計算機輸入數字寫法
-* 自訂義啟動與關閉
-* DiaPortable 與 GIMPPortable 的使用 
-* github創建
-* 計算機表單繼承方法</t>
+* 自訂啟動與關閉
+* 建立計算機版面和學習功能寫法
+* github建立和改區域
+* Dia 與 GIM使用方法  
+* 學習計算機表單繼承</t>
 <t tx="leo.20180103235104.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180103235104.5">##如何錄製及推送
-錄製
-&lt;img src="https://cpa.kmol.info/40623113/raw/4fcd02f2fc4420678769dea248c572fb1351d1be3e341f0c38f807769d06db51?m=image/png"
-width="200" height="200"&gt;&lt;/a&gt;
-vimeo推送:
-youtube推送:
+<t tx="leo.20180103235104.5">##自訂啟動與關閉
 
-&lt;img src="https://cpa.kmol.info/40623113/raw/ca78859ae3636c002a7c4e0f76aeb077a427968f7391073d31ef3fb218845219?m=image/png"
-width="200" height="200"&gt;&lt;/a&gt;
-&lt;img src="https://cpa.kmol.info/40623113/raw/89fff2480416db8a188057934aab680d122ebed65c4d84366ad2c029862db78d?m=image/png"
-width="200" height="200"&gt;&lt;/a&gt;</t>
+改寫star.bat與stop.bat成自訂形式</t>
 <t tx="leo.20180103235104.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180103235104.7"># 自評分數
+<t tx="leo.20180103235104.7">##github建立和改區域
 
-* 出席 20%：15
-* 平時表現 30%：22
-* 驗收考試 30%：19
-* 驗收簡報 20%：13
-* 總評：69分</t>
+建立github帳號
+
+從master改道gh-pages並且update
+
+
+</t>
 <t tx="leo.20180103235254.1">&lt;section&gt;
     @others
 &lt;/section&gt;</t>
@@ -418,74 +408,66 @@ width="200" height="200"&gt;&lt;/a&gt;</t>
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180103235254.3"># W13-W15 期中驗收週
+<t tx="leo.20180103235254.3"># W13-W15 期末執行週
 
-* w7製作網誌
-* 錄製影片推送到vimeo和youtube
-* 將影片放置網誌
-* w8如何用eric6做出計算機
-* w9製作期中投影片
-* [W7 第七週學習心得](https://cpa.kmol.info/40623113/doc/trunk/blog/40623113-w7-exam.html)
-* [W8 第八週學習心得](https://cpa.kmol.info/40623113/doc/trunk/blog/40623113-w8.html)
-* [W9 第九週期中報告]</t>
+
+* 與組員協同製作計算機功能
+* EtherCalc表單教學與使用
+* 驗收計算機成果與心得
+* 驗收個人簡報和小組簡報
+</t>
 <t tx="leo.20180103235254.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180103235254.5">##如何錄製及推送
-錄製
-&lt;img src="https://cpa.kmol.info/40623113/raw/4fcd02f2fc4420678769dea248c572fb1351d1be3e341f0c38f807769d06db51?m=image/png"
-width="200" height="200"&gt;&lt;/a&gt;
-vimeo推送:
-youtube推送:
+<t tx="leo.20180103235254.5">###與組員協同製作計算機基本功能
 
-&lt;img src="https://cpa.kmol.info/40623113/raw/ca78859ae3636c002a7c4e0f76aeb077a427968f7391073d31ef3fb218845219?m=image/png"
-width="200" height="200"&gt;&lt;/a&gt;
-&lt;img src="https://cpa.kmol.info/40623113/raw/89fff2480416db8a188057934aab680d122ebed65c4d84366ad2c029862db78d?m=image/png"
-width="200" height="200"&gt;&lt;/a&gt;</t>
+與組員一起做出一個計算機，並推到各組的github上，解決推檔的衝突，做出完整的功能，最後把簡報完成。</t>
 <t tx="leo.20180103235254.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180103235254.7"># 自評分數
+<t tx="leo.20180103235254.7">##EtherCalc表單教學與使用
 
-* 出席 20%：15
-* 平時表現 30%：22
-* 驗收考試 30%：19
-* 驗收簡報 20%：13
-* 總評：69分</t>
+
+說明如何透過概念、知識、執行、自學與想像等欄位的標示, 整理課程學習歷程.
+</t>
 <t tx="leo.20180104000950.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180104001010.1"></t>
+<t tx="leo.20180104001010.1">##建立計算機版面和學習功能寫法
+
+創立計算機版面和排版
+
+下面是計算機的功能寫法
+```
+@language python
+#避免重複 0。
+        if self.display.text() == '0' and int(button.text())== 0.0:
+            return
+        #清除螢幕 (運算的時候)
+        if self.waitingForOperand:
+            self.display.clear()
+            self.waitingForOperand = False
+        #疊加數字
+        self.display.setText(self.display.text() + button.text())
+ ```
+    </t>
 <t tx="leo.20180104001053.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180104001053.2"># W10-W12 檢討週
+<t tx="leo.20180104001053.2">## Dia 與 GIM使用方法 
 
-* 學習計算機輸入數字寫法
-* 自訂義啟動與關閉
-* DiaPortable 與 GIMPPortable 的使用 
-* github創建
-* 計算機表單繼承方法</t>
-<t tx="leo.20180104001059.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20180104001059.2"># W10-W12 檢討週
+投影片可以更加有整齊，能讓別人能更加明瞭你在做什麼。
 
-* 學習計算機輸入數字寫法
-* 自訂義啟動與關閉
-* DiaPortable 與 GIMPPortable 的使用 
-* github創建
-* 計算機表單繼承方法</t>
+GIM=&gt;裁剪圖
+DIA=&gt;箭頭更有線條感</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
