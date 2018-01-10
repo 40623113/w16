@@ -88,7 +88,7 @@
 <v t="leo.20171109012624.1" a="E"><vh>錄製</vh>
 <v t="leo.20171109021434.1"><vh>如何錄製</vh></v>
 </v>
-<v t="leo.20171109020344.1"><vh>評分</vh>
+<v t="leo.20171109020344.1" a="E"><vh>評分</vh>
 <v t="leo.20171109021126.1"><vh>自評</vh></v>
 </v>
 </v>
@@ -121,6 +121,11 @@
 </v>
 <v t="leo.20180104235506.1" a="E"><vh>製作計算機過程</vh>
 <v t="leo.20180104235539.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180110225024.1" a="E"><vh>期末自評</vh>
+<v t="leo.20180110225038.1" a="E"><vh>自評</vh>
+<v t="leo.20180110232252.1"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20171116215207.1"><vh>筆記</vh>
@@ -481,6 +486,21 @@ DIA=&gt;箭頭更有線條感</t>
 
 
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/oMyU58vI8NQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180110225024.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20180110225038.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110232252.1">##期末自評
+
+* 出席 20%：20
+* 平時表現 30%：21
+* 驗收考試 30%：19
+* 驗收簡報 20%：17
+* 總評：77</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
