@@ -81,7 +81,7 @@
 <v t="leo.20171109012418.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20171108225902.1" a="E"><vh>W7-W9</vh>
+<v t="leo.20171108225902.1"><vh>W7-W9</vh>
 <v t="leo.20171109012619.1" a="E"><vh>驗收周</vh>
 <v t="leo.20171109012620.1"><vh>內容</vh></v>
 </v>
@@ -123,7 +123,7 @@
 <v t="leo.20180104235539.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20180110225024.1" a="E"><vh>期末自評</vh>
+<v t="leo.20180110225024.1"><vh>期末自評</vh>
 <v t="leo.20180110225038.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20171116215207.1" a="E"><vh>筆記</vh>
@@ -451,6 +451,7 @@ width="200" height="200"&gt;&lt;/a&gt;
 </t>
 <t tx="leo.20180103235254.1">&lt;section&gt;
     @others
+&lt;/section&gt;
 </t>
 <t tx="leo.20180103235254.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -536,11 +537,9 @@ DIA=&gt;箭頭更有線條感
 
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/oMyU58vI8NQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20180110225024.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
+<t tx="leo.20180110225024.1">&lt;section&gt;
+    @others
+</t>
 <t tx="leo.20180110225038.1"># 自評分數
 
 * 出席 20%：18
