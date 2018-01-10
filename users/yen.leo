@@ -128,9 +128,12 @@
 <v t="leo.20180111002155.1"><vh>自評</vh></v>
 </v>
 </v>
-<v t="leo.20171116215207.1"><vh>筆記</vh>
+<v t="leo.20171116215207.1" a="E"><vh>筆記</vh>
 <v t="leo.20171116215242.1" a="E"><vh>內容</vh>
 <v t="leo.20180111002838.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180111010357.1" a="E"><vh>期末筆記</vh>
+<v t="leo.20180111010407.1"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20170911090052.1"><vh>快捷鍵</vh>
@@ -623,6 +626,28 @@ width="200" height="200"&gt;&lt;/a&gt;
 &lt;img src="https://cpa.kmol.info/40623113/raw/bef5673190e9c09cd5dfadbddcdfd6ae31f5cb14985ec7feae923fd3fc9ee9a9?m=image/jpeg"
 width="200" height="200"&gt;&lt;/a&gt;
 </t>
+<t tx="leo.20180111010357.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180111010407.1">##期末筆記
+
+&lt;img src="https://cpa.kmol.info/40623113/artifact/5007bf8d134aba5c"
+width="200" height="200"&gt;&lt;/a&gt;
+&lt;img src="https://cpa.kmol.info/40623113/artifact/5c166b825f728cd5"
+width="200" height="200"&gt;&lt;/a&gt;
+&lt;img src="https://cpa.kmol.info/40623113/artifact/f66354519fd216a5"
+width="200" height="200"&gt;&lt;/a&gt;
+&lt;img src="https://cpa.kmol.info/40623113/artifact/1230d53e39f6f0bf"
+width="200" height="200"&gt;&lt;/a&gt;
+&lt;img src="https://cpa.kmol.info/40623113/artifact/5df4576926e2ad47"
+width="200" height="200"&gt;&lt;/a&gt;
+&lt;img src="https://cpa.kmol.info/40623113/artifact/d4e72ddcd4f1cfb1"
+width="200" height="200"&gt;&lt;/a&gt;
+&lt;img src="https://cpa.kmol.info/40623113/artifact/388a7ff3526b59c4"
+width="200" height="200"&gt;&lt;/a&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
