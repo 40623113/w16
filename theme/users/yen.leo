@@ -56,7 +56,7 @@
 <v t="leo.20171116212837.1"><vh>目錄</vh>
 <v t="leo.20171116212847.1"><vh>內容</vh></v>
 </v>
-<v t="yen.20170108171733.16" a="E"><vh>W1-W3</vh>
+<v t="yen.20170108171733.16"><vh>W1-W3</vh>
 <v t="yen.20170108171733.17" a="E"><vh>準備與鼓勵</vh>
 <v t="leo.20171108232120.1"><vh>內容物</vh></v>
 </v>
@@ -67,7 +67,7 @@
 <v t="leo.20171109000658.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20171108225900.1" a="E"><vh>W4-W6</vh>
+<v t="leo.20171108225900.1"><vh>W4-W6</vh>
 <v t="leo.20171108230109.1" a="E"><vh>PYTHONE3</vh>
 <v t="leo.20171109002044.1"><vh>學習步驟</vh></v>
 </v>
@@ -92,7 +92,7 @@
 <v t="leo.20171109021126.1"><vh>自評</vh></v>
 </v>
 </v>
-<v t="leo.20180103235104.1" a="E"><vh>W10-W12</vh>
+<v t="leo.20180103235104.1"><vh>W10-W12</vh>
 <v t="leo.20180103235104.2"><vh>上課大綱</vh>
 <v t="leo.20180103235104.3"><vh>內容</vh></v>
 </v>
@@ -109,21 +109,21 @@
 <v t="leo.20180104001053.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20180103235254.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180103235254.1"><vh>W13-W15</vh>
 <v t="leo.20180103235254.2" a="E"><vh>上課大綱</vh>
 <v t="leo.20180103235254.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20180103235254.4"><vh>與組員協同製作計算機基本功能</vh>
 <v t="leo.20180103235254.5"><vh>內容</vh></v>
 </v>
-<v t="leo.20180103235254.6"><vh>EtherCalc表單教學與使用</vh>
+<v t="leo.20180103235254.6" a="E"><vh>EtherCalc表單教學與使用</vh>
 <v t="leo.20180103235254.7"><vh>內容</vh></v>
 </v>
-<v t="leo.20180104235506.1" a="E"><vh>製作計算機過程</vh>
+<v t="leo.20180104235506.1"><vh>製作計算機過程</vh>
 <v t="leo.20180104235539.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20180110225024.1" a="E"><vh>期末自評</vh>
+<v t="leo.20180110225024.1"><vh>期末自評</vh>
 <v t="leo.20180110225038.1"><vh>自評</vh></v>
 </v>
 <v t="leo.20171116215207.1"><vh>筆記</vh>
@@ -484,8 +484,10 @@ DIA=&gt;箭頭更有線條感</t>
 
 
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/oMyU58vI8NQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20180110225024.1">&lt;section&gt;
-    @others
+<t tx="leo.20180110225024.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20180110225038.1">##期末自評
 
