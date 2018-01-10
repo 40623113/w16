@@ -56,7 +56,7 @@
 <v t="leo.20171116212837.1"><vh>目錄</vh>
 <v t="leo.20171116212847.1"><vh>內容</vh></v>
 </v>
-<v t="yen.20170108171733.16" a="E"><vh>W1-W3</vh>
+<v t="yen.20170108171733.16"><vh>W1-W3</vh>
 <v t="yen.20170108171733.17" a="E"><vh>準備與鼓勵</vh>
 <v t="leo.20171108232120.1"><vh>內容物</vh></v>
 </v>
@@ -88,7 +88,7 @@
 <v t="leo.20171109012624.1" a="E"><vh>錄製</vh>
 <v t="leo.20171109021434.1"><vh>如何錄製</vh></v>
 </v>
-<v t="leo.20171109020344.1"><vh>評分</vh>
+<v t="leo.20171109020344.1" a="E"><vh>評分</vh>
 <v t="leo.20171109021126.1"><vh>自評</vh></v>
 </v>
 </v>
@@ -170,6 +170,20 @@
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
+<v t="leo.20180110235123.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20180110235123.2"><vh>Recovered node "W13-W15" from @clean index.html</vh>
+<v t="leo.20180110235123.3"><vh>old:W13-W15</vh></v>
+<v t="leo.20180110235123.4"><vh>new:W13-W15</vh></v>
+</v>
+<v t="leo.20180110235123.5"><vh>Recovered node "期末自評" from @clean index.html</vh>
+<v t="leo.20180110235123.6"><vh>old:期末自評</vh></v>
+<v t="leo.20180110235123.7"><vh>new:期末自評</vh></v>
+</v>
+<v t="leo.20180110235123.8"><vh>Recovered node "內容" from @clean index.html</vh>
+<v t="leo.20180110235123.9"><vh>old:內容</vh></v>
+<v t="leo.20180110235123.10"><vh>new:內容</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170911090052.1">&lt;section data-markdown&gt;
@@ -208,15 +222,18 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20171018235529.1"></t>
 <t tx="leo.20171108225900.1">&lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171108225902.1">&lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171108230109.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171108232120.1"># W1-W3
 
 * 要帶筆記本、USB 3.0 以上的隨身碟與耳機 方便上課
@@ -229,7 +246,8 @@ g.es("admin pelican Github 執行完畢")
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171108235819.1">### 了解隨身系統怎麼啟動
 
 * 到mde\python2017fall_36的資料夾
@@ -241,12 +259,14 @@ width="200" height="200"&gt;&lt;/a&gt;
 &lt;img src="https://cpa.kmol.info/40623113/raw/adf154dcdb44128fde2f15b371fac094d7f53ab558bb149bb67f936eb922a301?m=image/png"
 width="300" height="150"&gt;&lt;/a&gt;
 &lt;img src="https://cpa.kmol.info/40623113/raw/315c0d449cfb0f0ac153a286ffa4862c0e14ccee1bc7314f5f0c11893204ced9?m=image/png"
-width="150" height="200"&gt;&lt;/a&gt;</t>
+width="150" height="200"&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20171109000353.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171109000658.1">#Dos 指令區需要的指令
 
 * cd .. 回上一個目錄
@@ -256,17 +276,20 @@ width="150" height="200"&gt;&lt;/a&gt;</t>
 * rmdir    刪除資料夾
 * fossil status  檢查是否有missing
 * fossil add .  認全部資料
-* fossil commit -m "xxx" 上傳到遠端</t>
+* fossil commit -m "xxx" 上傳到遠端
+</t>
 <t tx="leo.20171109001549.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171109001549.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171109002044.1"># W4-W6
 
 *  Python3 程式語法練習
@@ -280,12 +303,14 @@ width="150" height="200"&gt;&lt;/a&gt;</t>
 * 打一串程式碼
 * run後會自動跑出圖形
 &lt;img src="https://cpa.kmol.info/40623113/raw/e5fcbd48b76ea050658257d74be4f5b909b7d9b400bf0e2b901312b89dcd3686?m=image/png"
-width="300" height="300"&gt;&lt;/a&gt;</t>
+width="300" height="300"&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20171109011539.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171109011558.1">##編輯網頁並上傳
 
 leo修改後存檔
@@ -293,16 +318,19 @@ leo存檔後=&gt;對github-blog點選右鍵
 (goto script)後再點一下=&gt;回DOS打
 fossil add .=&gt;fossil status (檢查有沒有miss)
 =&gt;完成後打 fossil commit -m "xxx"
-=&gt;完成</t>
+=&gt;完成
+</t>
 <t tx="leo.20171109012418.1">##eric6操作步驟
 
 &lt;iframe src="https://player.vimeo.com/video/241870584" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/241870584"&gt;虎尾科技大學-機械設計系-計算機程式-40623113-w8-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user73612551"&gt;吳承哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/241870584"&gt;虎尾科技大學-機械設計系-計算機程式-40623113-w8-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user73612551"&gt;吳承哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20171109012619.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171109012620.1"># W7-W9 期中驗收週
 
 * w7製作網誌
@@ -312,24 +340,28 @@ fossil add .=&gt;fossil status (檢查有沒有miss)
 * w9製作期中投影片
 * [W7 第七週學習心得](https://cpa.kmol.info/40623113/doc/trunk/blog/40623113-w7-exam.html)
 * [W8 第八週學習心得](https://cpa.kmol.info/40623113/doc/trunk/blog/40623113-w8.html)
-* [W9 第九週期中報告]</t>
+* [W9 第九週期中報告]
+</t>
 <t tx="leo.20171109012624.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171109020344.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171109021126.1"># 自評分數
 
 * 出席 20%：15
 * 平時表現 30%：22
 * 驗收考試 30%：19
 * 驗收簡報 20%：13
-* 總評：69分</t>
+* 總評：69分
+</t>
 <t tx="leo.20171109021434.1">##如何錄製及推送
 錄製
 &lt;img src="https://cpa.kmol.info/40623113/raw/4fcd02f2fc4420678769dea248c572fb1351d1be3e341f0c38f807769d06db51?m=image/png"
@@ -340,12 +372,14 @@ youtube推送:
 &lt;img src="https://cpa.kmol.info/40623113/raw/ca78859ae3636c002a7c4e0f76aeb077a427968f7391073d31ef3fb218845219?m=image/png"
 width="200" height="200"&gt;&lt;/a&gt;
 &lt;img src="https://cpa.kmol.info/40623113/raw/89fff2480416db8a188057934aab680d122ebed65c4d84366ad2c029862db78d?m=image/png"
-width="200" height="200"&gt;&lt;/a&gt;</t>
+width="200" height="200"&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20171116212837.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171116212847.1">##目錄
 
 * 壹  W1~W3
@@ -357,7 +391,8 @@ width="200" height="200"&gt;&lt;/a&gt;</t>
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171116215242.1">##筆記整理
 &lt;img src="https://cpa.kmol.info/40623113/raw/f76e8e8e9dd8e1ce7087a7f0e26519fb99c2944aaa3040d0f26c4b34c08f2f60?m=image/jpeg"
 width="200" height="200"&gt;&lt;/a&gt;
@@ -370,35 +405,42 @@ width="200" height="200"&gt;&lt;/a&gt;
 &lt;img src="https://cpa.kmol.info/40623113/raw/2afcb31ec8141ed7d5d9c3ae579089f0c1f88e59924604a1875162967e6151c7?m=image/jpeg"
 width="200" height="200"&gt;&lt;/a&gt;
 &lt;img src="https://cpa.kmol.info/40623113/raw/bef5673190e9c09cd5dfadbddcdfd6ae31f5cb14985ec7feae923fd3fc9ee9a9?m=image/jpeg"
-width="200" height="200"&gt;&lt;/a&gt;</t>
+width="200" height="200"&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20180103235104.1">&lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180103235104.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180103235104.3"># W10-W12 學習週
 
 * 自訂啟動與關閉
 * 建立計算機版面和學習功能寫法
 * github建立和改區域
 * Dia 與 GIM使用方法  
-* 學習計算機表單繼承</t>
+* 學習計算機表單繼承
+</t>
 <t tx="leo.20180103235104.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180103235104.5">##自訂啟動與關閉
 
-改寫star.bat與stop.bat成自訂形式</t>
+改寫star.bat與stop.bat成自訂形式
+</t>
 <t tx="leo.20180103235104.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180103235104.7">##github建立和改區域
 
 建立github帳號
@@ -409,12 +451,13 @@ width="200" height="200"&gt;&lt;/a&gt;</t>
 </t>
 <t tx="leo.20180103235254.1">&lt;section&gt;
     @others
-&lt;/section&gt;</t>
+</t>
 <t tx="leo.20180103235254.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180103235254.3"># W13-W15 期末執行週
 
 
@@ -427,15 +470,18 @@ width="200" height="200"&gt;&lt;/a&gt;</t>
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180103235254.5">###與組員協同製作計算機基本功能
 
-與組員一起做出一個計算機，並推到各組的github上，解決推檔的衝突，做出完整的功能，最後把簡報完成。</t>
+與組員一起做出一個計算機，並推到各組的github上，解決推檔的衝突，做出完整的功能，最後把簡報完成。
+</t>
 <t tx="leo.20180103235254.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180103235254.7">##EtherCalc表單教學與使用
 
 
@@ -445,7 +491,8 @@ width="200" height="200"&gt;&lt;/a&gt;</t>
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180104001010.1">##建立計算機版面和學習功能寫法
 
 創立計算機版面和排版
@@ -463,33 +510,85 @@ width="200" height="200"&gt;&lt;/a&gt;</t>
         #疊加數字
         self.display.setText(self.display.text() + button.text())
  ```
-    </t>
+    
+</t>
 <t tx="leo.20180104001053.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180104001053.2">## Dia 與 GIM使用方法 
 
 投影片可以更加有整齊，能讓別人能更加明瞭你在做什麼。
 
 GIM=&gt;裁剪圖
-DIA=&gt;箭頭更有線條感</t>
+DIA=&gt;箭頭更有線條感
+</t>
 <t tx="leo.20180104235506.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180104235539.1">##製作計算機過程
 
 
-&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/oMyU58vI8NQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/oMyU58vI8NQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20180110225024.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180110225038.1">##期末自評
+<t tx="leo.20180110225038.1"># 自評分數
+
+* 出席 20%：18
+* 平時表現 30%：21
+* 驗收考試 30%：18
+* 驗收簡報 20%：16
+* 總評：73分
+</t>
+<t tx="leo.20180110235123.1"></t>
+<t tx="leo.20180110235123.10"></t>
+<t tx="leo.20180110235123.2">(uncached) leo.20180103235254.1
+Diff...
+  &lt;section&gt;
+      @others
++ &lt;/section&gt;</t>
+<t tx="leo.20180110235123.3">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20180110235123.4">&lt;section&gt;
+    @others
+</t>
+<t tx="leo.20180110235123.5">(uncached) leo.20180110225024.1
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
++     &lt;/script&gt;
+- &lt;/section&gt;
+?           -
++ &lt;/section&gt;</t>
+<t tx="leo.20180110235123.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110235123.7">@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110235123.8">(uncached) leo.20180110225038.1
+Diff...
++ ##期末自評
++ 
++ * 出席 20%：18
++ * 平時表現 30%：20
++ * 驗收考試 30%：19
++ * 驗收簡報 20%：17
++ * 總評：74</t>
+<t tx="leo.20180110235123.9">##期末自評
 
 * 出席 20%：18
 * 平時表現 30%：20
@@ -701,7 +800,8 @@ g.es("admin pelican 近端執行完畢")
 <t tx="yen.20170108171733.5"></t>
 <t tx="yen.20170108171733.64">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="yen.20170108171733.65">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
