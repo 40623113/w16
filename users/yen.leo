@@ -443,12 +443,9 @@ width="200" height="200"&gt;&lt;/a&gt;
 從master改道gh-pages並且update
 
 *git  add . 增加
-
 *git commit -m "" 提交
-
 *git push 推送
-
-*git pull 把別人推的拉下來
+*git pull 有人推東西上去要PULL下來
 
 </t>
 <t tx="leo.20180103235254.1">&lt;section&gt;
