@@ -123,7 +123,7 @@
 <v t="leo.20180104235539.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20180110225024.1" a="E"><vh>期末自評</vh>
+<v t="leo.20180110225024.1"><vh>期末自評</vh>
 <v t="leo.20180110225038.1" a="E"><vh>內容</vh>
 <v t="leo.20180111002155.1"><vh>自評</vh></v>
 </v>
@@ -395,6 +395,7 @@ width="200" height="200"&gt;&lt;/a&gt;
 
 </t>
 <t tx="leo.20171116215242.1">##筆記整理
+
 &lt;img src="https://cpa.kmol.info/40623113/raw/f76e8e8e9dd8e1ce7087a7f0e26519fb99c2944aaa3040d0f26c4b34c08f2f60?m=image/jpeg"
 width="200" height="200"&gt;&lt;/a&gt;
 &lt;img src="https://cpa.kmol.info/40623113/raw/f76e8e8e9dd8e1ce7087a7f0e26519fb99c2944aaa3040d0f26c4b34c08f2f60?m=image/jpeg"
