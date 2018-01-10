@@ -129,7 +129,9 @@
 </v>
 </v>
 <v t="leo.20171116215207.1" a="E"><vh>筆記</vh>
-<v t="leo.20171116215242.1"><vh>內容</vh></v>
+<v t="leo.20171116215242.1" a="E"><vh>內容</vh>
+<v t="leo.20180111002838.1"><vh>內容</vh></v>
+</v>
 </v>
 <v t="leo.20170911090052.1"><vh>快捷鍵</vh>
 <v t="leo.20170911090052.2"><vh>投影片快捷鍵</vh></v>
@@ -394,20 +396,11 @@ width="200" height="200"&gt;&lt;/a&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20171116215242.1">##筆記整理
-
-&lt;img src="https://cpa.kmol.info/40623113/raw/f76e8e8e9dd8e1ce7087a7f0e26519fb99c2944aaa3040d0f26c4b34c08f2f60?m=image/jpeg"
-width="200" height="200"&gt;&lt;/a&gt;
-&lt;img src="https://cpa.kmol.info/40623113/raw/f76e8e8e9dd8e1ce7087a7f0e26519fb99c2944aaa3040d0f26c4b34c08f2f60?m=image/jpeg"
-width="200" height="200"&gt;&lt;/a&gt;
-&lt;img src="https://cpa.kmol.info/40623113/raw/a57e69e5c6e74789091c5fcc5ecc93df0af9f60310c0c336d40e1140a53f57d5?m=image/jpeg"
-width="200" height="200"&gt;&lt;/a&gt;
-&lt;img src="https://cpa.kmol.info/40623113/raw/1511f461b1b38b1c3bfa72be06709352094fd26987dac62acdd6a7ac255fdf32?m=image/jpeg"
-width="200" height="200"&gt;&lt;/a&gt;
-&lt;img src="https://cpa.kmol.info/40623113/raw/2afcb31ec8141ed7d5d9c3ae579089f0c1f88e59924604a1875162967e6151c7?m=image/jpeg"
-width="200" height="200"&gt;&lt;/a&gt;
-&lt;img src="https://cpa.kmol.info/40623113/raw/bef5673190e9c09cd5dfadbddcdfd6ae31f5cb14985ec7feae923fd3fc9ee9a9?m=image/jpeg"
-width="200" height="200"&gt;&lt;/a&gt;
+<t tx="leo.20171116215242.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 </t>
 <t tx="leo.20180103235104.1">&lt;section&gt;
     @others
@@ -606,6 +599,21 @@ Diff...
 * 驗收簡報 20%：16
 
 * 總評：73分
+</t>
+<t tx="leo.20180111002838.1">##筆記整理
+
+&lt;img src="https://cpa.kmol.info/40623113/raw/f76e8e8e9dd8e1ce7087a7f0e26519fb99c2944aaa3040d0f26c4b34c08f2f60?m=image/jpeg"
+width="200" height="200"&gt;&lt;/a&gt;
+&lt;img src="https://cpa.kmol.info/40623113/raw/f76e8e8e9dd8e1ce7087a7f0e26519fb99c2944aaa3040d0f26c4b34c08f2f60?m=image/jpeg"
+width="200" height="200"&gt;&lt;/a&gt;
+&lt;img src="https://cpa.kmol.info/40623113/raw/a57e69e5c6e74789091c5fcc5ecc93df0af9f60310c0c336d40e1140a53f57d5?m=image/jpeg"
+width="200" height="200"&gt;&lt;/a&gt;
+&lt;img src="https://cpa.kmol.info/40623113/raw/1511f461b1b38b1c3bfa72be06709352094fd26987dac62acdd6a7ac255fdf32?m=image/jpeg"
+width="200" height="200"&gt;&lt;/a&gt;
+&lt;img src="https://cpa.kmol.info/40623113/raw/2afcb31ec8141ed7d5d9c3ae579089f0c1f88e59924604a1875162967e6151c7?m=image/jpeg"
+width="200" height="200"&gt;&lt;/a&gt;
+&lt;img src="https://cpa.kmol.info/40623113/raw/bef5673190e9c09cd5dfadbddcdfd6ae31f5cb14985ec7feae923fd3fc9ee9a9?m=image/jpeg"
+width="200" height="200"&gt;&lt;/a&gt;
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
