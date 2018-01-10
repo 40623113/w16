@@ -440,7 +440,7 @@ width="200" height="200"&gt;&lt;/a&gt;
 
 建立github帳號
 
-從master改道gh-pages並且update
+從master改gh-pages並且update
 
 *git  add . 增加
 
